@@ -2,7 +2,7 @@ Readme
 =============================
 
 RefOrg  - Reference and Diary Organizer software application  
-is assigned to create individual "WiKi" inside PC.
+is assigned to create individual "WiKi" inside PC under Windows.
 
 Download application, unzip and run RefOrgV.exe
 Initial  file "reforg_sample.rfg" should be loaded.
