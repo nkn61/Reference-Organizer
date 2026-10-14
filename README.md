@@ -17,9 +17,5 @@ What are main features of this software?
 4) Glossary, Vocabulary and Reference collections.
 
 It should be useful for everyone who wish to keep 
-organized notes, screen shots and other images for years. 
-It is highly relevant in AI age with mass informational products. 
-
-Don't do complete reinstallation until expiration day shown in Help/About on your PC.
-Instead, replace RefOrgV.exe if update is available and no
-other recommendations.
+organized notes of different subjects, screen shots and other images for years. 
+It is highly relevant to researchers or students. 
