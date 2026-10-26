@@ -4,8 +4,8 @@ Readme
 RefOrg  - Reference and Diary Organizer software application  
 is assigned to create individual "WiKi" inside PC under Windows.
 
-Download application, unzip and run RefOrgV.exe
-Initial  file "reforg_sample.rfg" should be loaded.
+Download application, unzip and run RefOrgV.exe. 
+Initial file "reforg_sample.rfg" should be loaded.
 
 Open Help section for details [F1]
 
@@ -18,4 +18,4 @@ What are main features of this software?
 
 It should be useful for everyone who wish to keep 
 organized notes of different subjects, screen shots and other images for years. 
-It is highly relevant to researchers or students. 
+It is highly relevant to researchers and students. 
